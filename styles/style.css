@@ -72,10 +72,14 @@ a {
 
 /* main open */
 
+.main {
+  margin: 10px 400px 10px 400px;
+}
 
 .box {
+  margin: 10px 0 10px 0;
+  width: 100%;
   display: table;
-  margin: 10px 400px 10px 400px;
   padding: 15px;
   color: rgb(255, 255, 255);
   background-color: rgb(61, 61, 61);
